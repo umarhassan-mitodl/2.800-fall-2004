@@ -8,6 +8,8 @@ description: 'Slides from a lecture presentation covering the following topics: 
 file: /courses/2-800-tribology-fall-2004/49841547dcddc87b82263b982a60486e_ch5_wear_mech.pdf
 file_size: 2043690
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

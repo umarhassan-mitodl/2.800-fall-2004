@@ -8,6 +8,8 @@ description: 'Slides from a lecture presentation covering the following topics: 
 file: /courses/2-800-tribology-fall-2004/605d69102d68f79501ee511dae851cf7_ch11b_seal_des.pdf
 file_size: 132212
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

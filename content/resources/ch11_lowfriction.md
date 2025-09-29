@@ -10,6 +10,8 @@ description: 'Slides from a lecture presentation covering the following topics: 
 file: /courses/2-800-tribology-fall-2004/b844ec4e4219b0e4196cd7033c6bfa35_ch11_lowfriction.pdf
 file_size: 863984
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

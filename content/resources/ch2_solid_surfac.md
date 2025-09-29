@@ -12,6 +12,8 @@ description: 'Slides from a lecture presentation covering the following topics: 
 file: /courses/2-800-tribology-fall-2004/936927ea9e79828ad49171bd14758f6c_ch2_solid_surfac.pdf
 file_size: 365611
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

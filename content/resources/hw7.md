@@ -4,6 +4,8 @@ description: Problem set.
 file: /courses/2-800-tribology-fall-2004/96624db2e22a6913a3202665f7af1739_hw7.pdf
 file_size: 110959
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
