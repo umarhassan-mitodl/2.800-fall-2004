@@ -15,8 +15,6 @@ description: 'Slides from a lecture presentation covering the following topics: 
 file: /courses/2-800-tribology-fall-2004/c8f3e2b4d912535b6740f4d5321779fe_ch12_polymer.pdf
 file_size: 1112929
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

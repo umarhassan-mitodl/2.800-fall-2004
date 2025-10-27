@@ -6,8 +6,6 @@ description: 'Text of assigned reading: Rha, J. J., S. C. Kwon, J. R. Cho, W. Yi
 file: /courses/2-800-tribology-fall-2004/50ff8be1227ae2ab8bd32a6da77a78b4_ultra_low_fricti.pdf
 file_size: 187563
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

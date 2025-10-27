@@ -6,8 +6,6 @@ description: 'Slides from a lecture presentation covering the following topics: 
 file: /courses/2-800-tribology-fall-2004/fcfcdf24f90368eb7e28bcf12b704ab4_ch15_erosive_w.pdf
 file_size: 131230
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

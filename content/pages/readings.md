@@ -2,8 +2,6 @@
 content_type: page
 description: Readings will come from a set of assigned papers and from chapters in
   the course textbook.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

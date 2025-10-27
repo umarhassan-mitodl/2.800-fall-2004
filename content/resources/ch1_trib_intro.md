@@ -13,8 +13,6 @@ description: 'Slides from a lecture presentation covering the following topics: 
 file: /courses/2-800-tribology-fall-2004/970c3615772c953dea1b300e4c6dc981_ch1_trib_intro.pdf
 file_size: 2118613
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

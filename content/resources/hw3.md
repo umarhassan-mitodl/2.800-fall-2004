@@ -4,8 +4,6 @@ description: Problem set and reading assignment for the week.
 file: /courses/2-800-tribology-fall-2004/be25a2c976358df42d8b2266a902e784_hw3.pdf
 file_size: 72536
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

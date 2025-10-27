@@ -5,8 +5,6 @@ description: Creation of ulra-low friction and wear surfaces for micro-devices u
 file: /courses/2-800-tribology-fall-2004/53d28bb5d2fdeb070a85a4b949fadd52_ultra_low_friction.pdf
 file_size: 187563
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

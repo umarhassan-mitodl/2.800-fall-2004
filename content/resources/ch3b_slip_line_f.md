@@ -6,8 +6,6 @@ description: 'Slides from a lecture presentation covering the following topics: 
 file: /courses/2-800-tribology-fall-2004/81e413ebea967bf5a4f90e35c795cc93_ch3b_slip_line_f.pdf
 file_size: 304277
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
